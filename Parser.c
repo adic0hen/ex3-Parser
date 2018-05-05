@@ -7,6 +7,7 @@ int main() {
 	parse();
 	return 0;
 }
+/*just writing something*/
 int parse() {
 	char* input;
 	char* cmd;
